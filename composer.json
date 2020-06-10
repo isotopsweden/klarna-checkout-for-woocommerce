@@ -1,0 +1,14 @@
+{
+    "name": "krokedil/klarna-checkout-for-woocommerce",
+    "description": "Klarna Checkout for WooCommerce plugin",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Krokedil AB",
+            "email": "support@krokedil.se"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
